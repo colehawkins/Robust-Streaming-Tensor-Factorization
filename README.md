@@ -2,6 +2,8 @@
 
 This repository contains the code associated with the paper "Variational Bayesian Inference for Robust Streaming Tensor Factorization and Completion" to appear at IEEE ICDM 2018.
 
+Our contribution is contained in the file "streaming_bayesian_completion.m".
+
 Our code requires the Matlab Tensor Toolbox:
 
 https://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
