@@ -4,6 +4,7 @@
 This file has been altered by Cole Hawkins from the original branch. No significant changes have been made to the algorithms within.
 
 The documentation from the original branch is found below.
+
 Authors: [Hiroyuki Kasai](http://kasai.kasailab.com/)
 
 Last page update: Sep. 12, 2017
