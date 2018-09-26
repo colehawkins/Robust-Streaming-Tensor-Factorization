@@ -1,7 +1,7 @@
 # OLSTEC : OnLine Low-rank Subspace tracking by TEnsor CP Decomposition in Matlab
 
 ----------
-This file has been altered by Cole Hawkins from the original branch. No significant changes have been made to the algorithms within.
+Files in this folder have been altered by Cole Hawkins from the original branch. No significant changes have been made to the algorithms within.
 
 The documentation from the original branch is found below.
 
